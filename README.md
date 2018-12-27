@@ -1,11 +1,3 @@
-
-<div align="center">This package is useful for determining screen size type on web applications with respect to bootstrap 4 grid system.</div>
-<div align="center">
-  <sub>Created by <a href="https://www.pankod.com">Pankod</a></sub>
-</div>
-
-
-
 ## About
 
 This package is useful for determining screen size type on web applications with respect to bootstrap 4 grid system.
@@ -35,6 +27,10 @@ function MyAwesomeComponent() {
 }
 
 ```
+
+<div align="center">
+  <sub>Created by <a href="https://www.pankod.com">Pankod</a></sub>
+</div>
 
 ## License
 
