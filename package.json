@@ -1,0 +1,22 @@
+{
+  "name": "react-hooks-screen-type",
+  "version": "1.0.0",
+  "description": "Determining screen size type for Bootstrap 4 grid",
+  "main": "src/index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pankod/react-hooks-screen-type.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pankod/react-hooks-screen-type/issues"
+  },
+  "homepage": "https://github.com/pankod/react-hooks-screen-type#readme"
+}
