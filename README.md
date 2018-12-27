@@ -1,5 +1,5 @@
 
-<div align="center">Determining screen size type for Bootstrap 4 grid.</div>
+<div align="center">This package is useful for determining screen size type on web applications with respect to bootstrap 4 grid system.</div>
 <div align="center">
   <sub>Created by <a href="https://www.pankod.com">Pankod</a></sub>
 </div>
